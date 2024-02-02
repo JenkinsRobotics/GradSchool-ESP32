@@ -179,7 +179,7 @@ The following is a breakdown of key components for this project:
 
 
 Disclaimer :
-Modifying your Shapeoko  will void the warranty. Do at your own risk.
+Using or modifying our code is done at your own risk.
 
 **ENJOY!!**
 
