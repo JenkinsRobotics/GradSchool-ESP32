@@ -1,13 +1,13 @@
 ## Jenkins Robotics
-# Jenkins CNC
+# Grad School - ESP32 Mini Projects
 
 <!-- This is commented out. -->
 
 ## Project Information
 
-Project Status : <mark style="background-color: green"> &nbsp; COMPLETED &nbsp;</mark>  
-Code Status : <mark style="background-color: green"> &nbsp; GOOD &nbsp;</mark>  
-Development Status : <mark style="background-color: red"> &nbsp; NOT ACTIVE &nbsp;</mark>  
+Project Status : <mark style="background-color: green"> &nbsp; ONGOING &nbsp;</mark>  
+Code Status : <mark style="background-color: green"> &nbsp; IN DEVELOPMENT &nbsp;</mark>  
+Development Status : <mark style="background-color: red"> &nbsp;  ACTIVE &nbsp;</mark>  
 
 
 
@@ -15,14 +15,12 @@ Development Status : <mark style="background-color: red"> &nbsp; NOT ACTIVE &nbs
 ## General Information
 
 
- This is the project files for our Shapeoko 3 xxl. Our goal is to make our shapeoko 3 as automated as possible. To achive this goal we have installed multiple upgrades onto our cnc including: 
-- [x] Automated Tool Change
-- [x] Manual Tool Change
-- [x] Coolent 
-- [x] Tool Z Probe Macro
-- [x] Work Piece XYZ Probe
-- [x] Spindle Control
-- [x] Modularity
+ This is the project files for ME 5731 Robotics Sensing Technology. This page will show the completed projects including: 
+- [x] ESP32
+- [x] C code
+- [x] Python Code 
+
+<!-- This is commented out.
 
 &nbsp;
 ## WATCH NOW ON YOUTUBE
@@ -33,6 +31,8 @@ Development Status : <mark style="background-color: red"> &nbsp; NOT ACTIVE &nbs
  &nbsp;
 
 [![image alt text](http://img.youtube.com/vi/w-qWbZ5-IQw/0.jpg)](https://youtube.com/playlist?list=PLNTKXZ4hgP_jekZOWw05JcJtyseCdSsIV "YouTube")
+
+
 
 &nbsp;
 ## Support
@@ -120,6 +120,9 @@ Installation instructions can be found in the youtube video linked below
 
 [![image alt text](http://img.youtube.com/vi/w-qWbZ5-IQw/0.jpg)](https://youtube.com/playlist?list=PLNTKXZ4hgP_jekZOWw05JcJtyseCdSsIV "YouTube")
 
+This is commented out. -->
+
+
 
 <!-- This is commented out.  
 
@@ -156,10 +159,7 @@ firefox/
 &nbsp;
 ## Next Steps
 
-This project is now completed. No next steps are planned. We can release bug fixes if found. 
-
-If you require assistant join our discord channel linked down below.
-
+This project is ongoing. look to our youtube channel for upcoming videos on this topic. 
 
 
 &nbsp;
@@ -171,6 +171,7 @@ The following is a breakdown of key components for this project:
 | ------------- |:-------------:| -----:|
 | Fusion 360    | CAD           | Free |
 | VS Code       | Text Editor   |   Free |
+| Arduino IDE     | Text Editor   |   Free |
 
 
 &nbsp;
